@@ -6,6 +6,3 @@ I ’m not just looking for “results” ... If you are only looking for “res
 
 ![Image of jojo character](images/jojo_1.webp)
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
